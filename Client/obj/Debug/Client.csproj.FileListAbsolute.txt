@@ -1,0 +1,9 @@
+C:\Users\나동빈\source\repos\OpenSSL\Client\bin\Debug\Client.exe.config
+C:\Users\나동빈\source\repos\OpenSSL\Client\bin\Debug\Client.exe
+C:\Users\나동빈\source\repos\OpenSSL\Client\bin\Debug\Client.pdb
+C:\Users\나동빈\source\repos\OpenSSL\Client\obj\Debug\Client.Form1.resources
+C:\Users\나동빈\source\repos\OpenSSL\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\나동빈\source\repos\OpenSSL\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\나동빈\source\repos\OpenSSL\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\나동빈\source\repos\OpenSSL\Client\obj\Debug\Client.exe
+C:\Users\나동빈\source\repos\OpenSSL\Client\obj\Debug\Client.pdb
